@@ -1,0 +1,6 @@
+Package    Version
+---------- -------
+pip        23.0.1
+pywatchman 1.4.1
+setuptools 67.6.1
+wheel      0.40.0

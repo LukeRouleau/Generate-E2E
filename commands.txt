@@ -1,0 +1,6 @@
+# VENV
+source scripts/activate
+
+# DJANGO
+django-admin startproject proj
+python manage.py runserver
